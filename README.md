@@ -1,1 +1,1 @@
-# A React-Native App to guess A Number!s
+# A React-Native App to guess A Number!
